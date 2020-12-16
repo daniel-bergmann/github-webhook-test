@@ -3,5 +3,5 @@
 ##Test
 
 
-![Image of webhook working in discord](https://ibb.co/yBsrszj)
+https://ibb.co/yBsrszj
 
